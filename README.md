@@ -8,7 +8,7 @@ Desenvolvimento Web Full stack da Digital House.
 
 <ul>
   <li>My Sql: Utilizado para a Criação do Banco de Dados e das Tabelas</li>
-  <li>ORM:Sequelize</li>
+  <li>ORM: Sequelize</li>
   <li>Node.js/Express</li>
   <li>Javascript</li>
  </ul>
