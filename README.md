@@ -14,3 +14,9 @@ Desenvolvimento Web Full stack da Digital House.
  </ul>
  
  # Como executar?
+ 
+ Para executar a API, é importante que você tenha o Node instalado em sua máquina. 
+
+ # Observações
+ 
+ A parte de Put e Delete ainda não está pronta, estou finalizando as rotas. Pretendo utilizar o consign para organizar todas as rotas, então estarei atualizando a API futuramente.
